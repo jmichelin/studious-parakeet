@@ -1,0 +1,17 @@
+{
+  "name": "ghsheet-playground",
+  "version": "1.0.0",
+  "description": "playing with gsheet integration",
+  "main": "server/server.js",
+  "repository": "https://github.com/jmichelin/studious-parakeet",
+  "author": "John Michelin <john@javascriptjohn.com> (http://www.javascriptjohn.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "cz-conventional-changelog": "2.0.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
